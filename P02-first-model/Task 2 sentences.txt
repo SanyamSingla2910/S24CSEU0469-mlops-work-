@@ -1,0 +1,1 @@
+The 70/30 split with seed 7 increased the model's MAE slightly (from 1.92 to 2.10 minutes), but the linear regression model still performed much better than the baseline. This shows that results can vary slightly with different train/test splits, so model performance should not be judged using only a single split.
